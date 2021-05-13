@@ -1,0 +1,129 @@
+#events
+{
+    margin-right: 1400px;
+}
+#contactus
+{
+    margin-left: 30px;
+}
+.body_background
+{
+    background-color: lightblue;
+}
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+.travel_mainDiv {
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+    border: 1px solid blue;
+    color: azure;
+}
+
+.travel_mainDiv img {
+    width: 100%;
+}
+
+.travel_mainDiv hr {
+    width: 230px;
+}
+
+.travel_mainDiv h5,
+.travel_mainDiv p {
+    margin-left: 20px;
+    color: azure;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.m1 span {
+    color: #ff7700;
+}
+
+.hiii {
+    margin-top: 13px;
+}
+
+.hiii h4 {
+    padding: 8px;
+    border-bottom: 1px solid white;
+}
+
+.hiii img {
+    border-radius: 25px;
+}
+
+.hiii p {
+    margin-top: 10px;
+}
+
+.sos {
+    line-height: 2;
+}
+
+.book {
+    cursor: pointer;
+
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center
+}
+#details
+{
+    text-align: right;
+    margin-right: 30px;
+    margin-bottom: 150px;
+}
+#maps123456
+{
+    text-align:left;
+    margin-left: 30px;
+}
+#img1
+{
+    width: 200px;
+    height: 200px;
+    margin-right: 80px;
+}
+.map iframe
+{
+    width: 100%;
+}
